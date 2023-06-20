@@ -1,5 +1,5 @@
 shell:
 	docker-compose run --rm api bash
 
-make up:
+up:
 	docker-compose up
